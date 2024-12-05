@@ -84,7 +84,7 @@ This project showcases:
 
 ### 🌟 Dashboard Preview
 
-![Sales Dashboard](./Dashboard.png)
+![Sales Dashboard](https://github.com/JanviDhonde/Excel-Bicycle-Sales-Dashboard/blob/main/Dashboard.png)
 
 ### 🌟 Why This Project Matters
 
