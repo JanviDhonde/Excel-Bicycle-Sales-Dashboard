@@ -1,0 +1,55 @@
+
+📇 Project Overview: Coffee Shop Sales Dashboard 
+
+
+
+Objective: 
+
+- The primary objective of analysing the bicycle shop sales data is to identify key drivers of revenue and profitability, understand customer behaviour, and optimize sales strategies. . 
+
+- The analysis also aims to identify seasonal trends and market opportunities to enhance overall business performance and growth.
+
+
+
+🔧 Process involved :
+
+
+
+- Structuring the Dashboard: Started with PowerPoint for layout design, then moved to Excel.
+
+
+
+- Pivot Tables & Formulas: Utilized Pivot Tables, along with functions like INDEX-MATCH to display real-time data.
+
+
+
+- Visual Enhancements: Added charts like Stacked Columns, Bar Charts, Tree Maps, and Donut Charts for a comprehensive view.
+
+
+
+-Interactive Slicers: Integrated slicers for seamless filtering, enhancing data interaction.
+
+
+
+ 📊My Insights: Through this project, I gained invaluable experience in translating business requirements into actionable dashboards.
+
+
+
+Key insights include:
+
+
+
+- Sales and Profit by Month: The highest sales and profit percentage occurred in July (15%) and August (16%).
+
+
+
+- Yearly Comparison: A sunburst chart visually compares 2021 and 2022 sales, with a significant increase in 2022.
+
+
+
+- Sales by Country: The US leads sales, followed by Germany and France, indicating potential market focus areas.
+
+
+
+- Sales by Segment: Government is the most profitable segment, contributing the most to overall sales, which suggests a focus on B2G (Business to Government) strategies.
+
